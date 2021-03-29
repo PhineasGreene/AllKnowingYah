@@ -1,0 +1,16 @@
+Aces
+Twos
+Threes
+Fours
+Fives
+Sixes
+
+Bonus
+
+3 of a Kind
+4 of a Kind
+Full House
+Sm. Straight
+Lg. Straight
+YAHTZEE
+Chance
